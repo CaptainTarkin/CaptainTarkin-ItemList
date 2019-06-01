@@ -10537,18 +10537,6 @@
 		"defname": "Apparel_CyberSuit"
 	},
 	{
-		"abr": "xma-1"leviathan"mcahelmet",
-		"price": 2500,
-		"category": "Apparel",
-		"defname": "Apparel_LeviathanH"
-	},
-	{
-		"abr": "xma-1"leviathan"mechanizedcombatarmature",
-		"price": 8333,
-		"category": "Apparel",
-		"defname": "Apparel_Leviathan"
-	},
-	{
 		"abr": "yayo",
 		"price": 35,
 		"category": "Drugs",
