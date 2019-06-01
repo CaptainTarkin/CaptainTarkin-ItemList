@@ -25,6 +25,12 @@
 		"defname": "AdrenalineRib"
 	},
 	{
+		"abr": "ads",
+		"price": 700,
+		"category": "Uncategorized",
+		"defname": "PPCADS"
+	},
+	{
 		"abr": "advancedbionicarm",
 		"price": 8333,
 		"category": "Advanced bionics",
@@ -211,6 +217,12 @@
 		"defname": "AIUpliftAssistantAUA"
 	},
 	{
+		"abr": "airtank",
+		"price": 1725,
+		"category": "Uncategorized",
+		"defname": "ShipInside_AirTank"
+	},
+	{
 		"abr": "akimbolever-actionshotguns",
 		"price": 1108,
 		"category": "Ranged weapons",
@@ -293,6 +305,24 @@
 		"price": 35,
 		"category": "Manufactured",
 		"defname": "AmplifierCrystal"
+	},
+	{
+		"abr": "ancientconcretebarrier",
+		"price": 51,
+		"category": "Uncategorized",
+		"defname": "AncientConcreteBarrier"
+	},
+	{
+		"abr": "ancientcryptosleepcasket",
+		"price": 617,
+		"category": "Uncategorized",
+		"defname": "AncientCryptosleepCasket"
+	},
+	{
+		"abr": "ancientlamppost",
+		"price": 50,
+		"category": "Uncategorized",
+		"defname": "AncientLamppost"
 	},
 	{
 		"abr": "ancientmail",
@@ -710,7 +740,7 @@
 	},
 	{
 		"abr": "archotechcentipede",
-		"price": 6666666,
+		"price": 8000,
 		"category": "Uncategorized",
 		"defname": "GR_ArchotechCentipede"
 	},
@@ -719,6 +749,12 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_GR_ArchotechCentipede"
+	},
+	{
+		"abr": "archotechconstructionplatform",
+		"price": 9067,
+		"category": "Uncategorized",
+		"defname": "GR_ArchotechPlatform"
 	},
 	{
 		"abr": "archotecheye",
@@ -913,6 +949,24 @@
 		"defname": "ATOM"
 	},
 	{
+		"abr": "autocannonturret",
+		"price": 2117,
+		"category": "Uncategorized",
+		"defname": "Turret_Autocannon"
+	},
+	{
+		"abr": "autocannonturret",
+		"price": 2117,
+		"category": "Uncategorized",
+		"defname": "ShipInside_Turret_Autocannon"
+	},
+	{
+		"abr": "autodoor",
+		"price": 323,
+		"category": "Uncategorized",
+		"defname": "Autodoor"
+	},
+	{
 		"abr": "automaticaiassembler",
 		"price": 3333,
 		"category": "Furniture",
@@ -1015,6 +1069,12 @@
 		"defname": "SpellOf_BattleHymn"
 	},
 	{
+		"abr": "basicbridge",
+		"price": 35,
+		"category": "Uncategorized",
+		"defname": "RBB_Bridge"
+	},
+	{
 		"abr": "basicmanagerdesk",
 		"price": 262,
 		"category": "Production",
@@ -1055,6 +1115,12 @@
 		"price": 683,
 		"category": "Ranged weapons",
 		"defname": "Gun_BattleRifle"
+	},
+	{
+		"abr": "beamcannonsatellitepod",
+		"price": 1567,
+		"category": "Uncategorized",
+		"defname": "BeamCannonSatellitePodSW"
 	},
 	{
 		"abr": "beamsplitter",
@@ -1261,6 +1327,12 @@
 		"defname": "BilliardsTable"
 	},
 	{
+		"abr": "biofuelrefinery",
+		"price": 650,
+		"category": "Uncategorized",
+		"defname": "BiofuelRefinery"
+	},
+	{
 		"abr": "bionicarm",
 		"price": 2917,
 		"category": "Bionics",
@@ -1339,6 +1411,12 @@
 		"defname": "CP_BlackHatStation"
 	},
 	{
+		"abr": "blastdoor",
+		"price": 7958,
+		"category": "Uncategorized",
+		"defname": "BlastDoor"
+	},
+	{
 		"abr": "blastdoor(2x1)",
 		"price": 1525,
 		"category": "Buildings",
@@ -1381,6 +1459,12 @@
 		"defname": "GR_BoarSerum"
 	},
 	{
+		"abr": "boardwalk",
+		"price": 18,
+		"category": "Uncategorized",
+		"defname": "RBB_Boardwalk"
+	},
+	{
 		"abr": "bolt-actionpistol",
 		"price": 483,
 		"category": "Ranged weapons",
@@ -1397,6 +1481,12 @@
 		"price": 725,
 		"category": "Ranged weapons",
 		"defname": "Gun_SniperRifle"
+	},
+	{
+		"abr": "bombardmentsatellitepod",
+		"price": 1567,
+		"category": "Uncategorized",
+		"defname": "KineticBombardmentSatellitePodSW"
 	},
 	{
 		"abr": "bondorudo'sdiary",
@@ -1801,6 +1891,12 @@
 		"defname": "Leather_Camel"
 	},
 	{
+		"abr": "campfire",
+		"price": 41,
+		"category": "Uncategorized",
+		"defname": "Campfire"
+	},
+	{
 		"abr": "canicula-iiuniversalrifle",
 		"price": 2333,
 		"category": "Ranged weapons",
@@ -1843,10 +1939,22 @@
 		"defname": "WTH_CargoModule"
 	},
 	{
+		"abr": "cargopodtransport",
+		"price": 8583,
+		"category": "Uncategorized",
+		"defname": "Building_Helicopter"
+	},
+	{
 		"abr": "cargoshorts",
 		"price": 169,
 		"category": "Apparel",
 		"defname": "Apparel_FSCargoShorts"
+	},
+	{
+		"abr": "cargospaceship",
+		"price": 35258,
+		"category": "Uncategorized",
+		"defname": "SpaceshipCargo"
 	},
 	{
 		"abr": "caribou",
@@ -1981,10 +2089,22 @@
 		"defname": "CBD"
 	},
 	{
+		"abr": "ceilinggrowlamp",
+		"price": 166,
+		"category": "Uncategorized",
+		"defname": "MSI_CeilingGrowLamp"
+	},
+	{
 		"abr": "centipede",
 		"price": 2000,
 		"category": "Uncategorized",
 		"defname": "Mech_Centipede"
+	},
+	{
+		"abr": "centralizedgeneticrepository",
+		"price": 4833,
+		"category": "Uncategorized",
+		"defname": "GR_GeneticRepository"
 	},
 	{
 		"abr": "chairforce",
@@ -2045,6 +2165,12 @@
 		"price": 30,
 		"category": "Smokeleaf Drugs",
 		"defname": "CHO"
+	},
+	{
+		"abr": "chemfuelpoweredgenerator",
+		"price": 492,
+		"category": "Uncategorized",
+		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
 		"abr": "cherubmechinjector",
@@ -2527,6 +2653,18 @@
 		"defname": "CochlearImplant"
 	},
 	{
+		"abr": "coldwaterpipe",
+		"price": 11,
+		"category": "Uncategorized",
+		"defname": "waterPipe"
+	},
+	{
+		"abr": "coldwatervalve",
+		"price": 50,
+		"category": "Uncategorized",
+		"defname": "waterValve"
+	},
+	{
 		"abr": "combatblade",
 		"price": 467,
 		"category": "Melee weapons",
@@ -2617,10 +2755,22 @@
 		"defname": "SF_CommandoArmorHelmet"
 	},
 	{
+		"abr": "commsconsole",
+		"price": 608,
+		"category": "Uncategorized",
+		"defname": "CommsConsole"
+	},
+	{
 		"abr": "compactcarbine",
 		"price": 650,
 		"category": "Ranged weapons",
 		"defname": "Gun_CompactCarbine"
+	},
+	{
+		"abr": "compactfissionreactor",
+		"price": 3367,
+		"category": "Uncategorized",
+		"defname": "CompactFissionPowerSW"
 	},
 	{
 		"abr": "compactlightmachinegun",
@@ -2653,6 +2803,18 @@
 		"defname": "ComputingSystemSW"
 	},
 	{
+		"abr": "consoleloom",
+		"price": 11,
+		"category": "Uncategorized",
+		"defname": "controllerLoom"
+	},
+	{
+		"abr": "constructhub",
+		"price": 2525,
+		"category": "Uncategorized",
+		"defname": "ConstructHub"
+	},
+	{
 		"abr": "constructionjacket",
 		"price": 273,
 		"category": "Apparel",
@@ -2681,6 +2843,30 @@
 		"price": 4167,
 		"category": "Items",
 		"defname": "PolarisCombatChipConverter"
+	},
+	{
+		"abr": "coolantpipe",
+		"price": 11,
+		"category": "Uncategorized",
+		"defname": "coolingPipe"
+	},
+	{
+		"abr": "coolantvalve",
+		"price": 50,
+		"category": "Uncategorized",
+		"defname": "coolantValve"
+	},
+	{
+		"abr": "cooler",
+		"price": 458,
+		"category": "Uncategorized",
+		"defname": "Cooler"
+	},
+	{
+		"abr": "coolingtower",
+		"price": 3983,
+		"category": "Uncategorized",
+		"defname": "CoolingTower"
 	},
 	{
 		"abr": "corn",
@@ -2839,10 +3025,22 @@
 		"defname": "GR_Cryofuel"
 	},
 	{
+		"abr": "cryo-stabilizedgenerator",
+		"price": 792,
+		"category": "Uncategorized",
+		"defname": "GR_CryostabilizedEngine"
+	},
+	{
 		"abr": "cryptocollar",
 		"price": 1083,
 		"category": "Apparel",
 		"defname": "Apparel_SlaveCollar_Crypto"
+	},
+	{
+		"abr": "cryptosleepcasket",
+		"price": 1183,
+		"category": "Uncategorized",
+		"defname": "CryptosleepCasket"
 	},
 	{
 		"abr": "crystal",
@@ -2953,6 +3151,18 @@
 		"defname": "Polarisbloc_CygnusStandardTights"
 	},
 	{
+		"abr": "damagedshipengine",
+		"price": 2400,
+		"category": "Uncategorized",
+		"defname": "DamagedShipEngineSW"
+	},
+	{
+		"abr": "damagedspaceship",
+		"price": 35258,
+		"category": "Uncategorized",
+		"defname": "SpaceshipDamaged"
+	},
+	{
 		"abr": "darkrobe",
 		"price": 4167,
 		"category": "Apparel",
@@ -2963,6 +3173,12 @@
 		"price": 908,
 		"category": "Production",
 		"defname": "DeepDrill"
+	},
+	{
+		"abr": "deepwaterbridge",
+		"price": 73,
+		"category": "Uncategorized",
+		"defname": "RBB_DeepBridge"
 	},
 	{
 		"abr": "deer",
@@ -3001,6 +3217,12 @@
 		"defname": "denture"
 	},
 	{
+		"abr": "depletedempd-1charge",
+		"price": 5725,
+		"category": "Uncategorized",
+		"defname": "DepletedEMPCharge"
+	},
+	{
 		"abr": "depleteduranium",
 		"price": 13,
 		"category": "Rimatomics Product",
@@ -3029,6 +3251,12 @@
 		"price": 75,
 		"category": "Manufactured",
 		"defname": "GR_EggBomb"
+	},
+	{
+		"abr": "devastatormortar",
+		"price": 4825,
+		"category": "Uncategorized",
+		"defname": "Turret_DevastatorMortarBomb"
 	},
 	{
 		"abr": "devilcookie",
@@ -3073,6 +3301,18 @@
 		"defname": "TM_Dire_WolfR"
 	},
 	{
+		"abr": "dispatcherspaceship",
+		"price": 35258,
+		"category": "Uncategorized",
+		"defname": "SpaceshipDispatcherDrop"
+	},
+	{
+		"abr": "dispatcherspaceship",
+		"price": 35258,
+		"category": "Uncategorized",
+		"defname": "SpaceshipDispatcherPick"
+	},
+	{
 		"abr": "disposablelauncher",
 		"price": 883,
 		"category": "Ranged weapons",
@@ -3097,6 +3337,12 @@
 		"defname": "Gun_DoomsdayRocket"
 	},
 	{
+		"abr": "door",
+		"price": 88,
+		"category": "Uncategorized",
+		"defname": "Door"
+	},
+	{
 		"abr": "door(1x2)",
 		"price": 172,
 		"category": "Buildings",
@@ -3107,6 +3353,18 @@
 		"price": 260,
 		"category": "Buildings",
 		"defname": "PH_DoorTriple"
+	},
+	{
+		"abr": "doorbutton",
+		"price": 86,
+		"category": "Uncategorized",
+		"defname": "PH_DoorButton"
+	},
+	{
+		"abr": "doorlever",
+		"price": 70,
+		"category": "Uncategorized",
+		"defname": "PH_DoorLever"
 	},
 	{
 		"abr": "doormat",
@@ -3241,6 +3499,12 @@
 		"defname": "SpellOf_RegrowLimb"
 	},
 	{
+		"abr": "dublastdoor",
+		"price": 625,
+		"category": "Uncategorized",
+		"defname": "DU_Blastdoor"
+	},
+	{
 		"abr": "dusabotround",
 		"price": 83,
 		"category": "Sabot Rounds",
@@ -3251,6 +3515,12 @@
 		"price": 327,
 		"category": "Apparel",
 		"defname": "Apparel_Duster"
+	},
+	{
+		"abr": "dynamicrelaxationchair",
+		"price": 4950,
+		"category": "Uncategorized",
+		"defname": "DynChair"
 	},
 	{
 		"abr": "ear",
@@ -3269,6 +3539,24 @@
 		"price": 533,
 		"category": "Apparel",
 		"defname": "Apparel_SlaveCollar_Electric"
+	},
+	{
+		"abr": "electriccrematorium",
+		"price": 700,
+		"category": "Uncategorized",
+		"defname": "ElectricCrematorium"
+	},
+	{
+		"abr": "electricfence",
+		"price": 68,
+		"category": "Uncategorized",
+		"defname": "Electric_fence"
+	},
+	{
+		"abr": "electricfencegate",
+		"price": 169,
+		"category": "Uncategorized",
+		"defname": "Electric_fence_door"
 	},
 	{
 		"abr": "electricsmelter",
@@ -3293,6 +3581,12 @@
 		"price": 533,
 		"category": "Production",
 		"defname": "ElectricTailoringBench"
+	},
+	{
+		"abr": "electrolyzer",
+		"price": 14283,
+		"category": "Uncategorized",
+		"defname": "Electrolyzer"
 	},
 	{
 		"abr": "electromagneticvibrateknife",
@@ -3449,6 +3743,18 @@
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_EMP"
+	},
+	{
+		"abr": "empd-1charge",
+		"price": 5725,
+		"category": "Uncategorized",
+		"defname": "EMPCharge"
+	},
+	{
+		"abr": "empd-1charge",
+		"price": 5725,
+		"category": "Uncategorized",
+		"defname": "FissionBomb"
 	},
 	{
 		"abr": "emptyincubator",
@@ -3659,6 +3965,12 @@
 		"price": 2500,
 		"category": "Natural",
 		"defname": "Eye"
+	},
+	{
+		"abr": "fabricationbench",
+		"price": 1967,
+		"category": "Uncategorized",
+		"defname": "FabricationBench"
 	},
 	{
 		"abr": "featherdustjoint",
@@ -4123,6 +4435,12 @@
 		"defname": "SpellOf_Meteor"
 	},
 	{
+		"abr": "geothermalgenerator",
+		"price": 1575,
+		"category": "Uncategorized",
+		"defname": "GeothermalGenerator"
+	},
+	{
 		"abr": "giddy-up!module",
 		"price": 1125,
 		"category": "Manufactured",
@@ -4195,6 +4513,12 @@
 		"defname": "BlocksGranite"
 	},
 	{
+		"abr": "grave",
+		"price": 5,
+		"category": "Uncategorized",
+		"defname": "Grave"
+	},
+	{
 		"abr": "greatbow",
 		"price": 154,
 		"category": "Ranged weapons",
@@ -4223,6 +4547,24 @@
 		"price": 1167,
 		"category": "Uncategorized",
 		"defname": "Bear_Grizzly"
+	},
+	{
+		"abr": "ground-penetratingscanner",
+		"price": 1692,
+		"category": "Uncategorized",
+		"defname": "GroundPenetratingScanner"
+	},
+	{
+		"abr": "growlamp",
+		"price": 214,
+		"category": "Uncategorized",
+		"defname": "GrowLamp"
+	},
+	{
+		"abr": "growlightfixture",
+		"price": 66,
+		"category": "Uncategorized",
+		"defname": "MSI_TubeGrowLights"
 	},
 	{
 		"abr": "growingmodule",
@@ -4405,16 +4747,46 @@
 		"defname": "Heater"
 	},
 	{
+		"abr": "heavyboardwalk",
+		"price": 19,
+		"category": "Uncategorized",
+		"defname": "RBB_Boardwalk_Stone"
+	},
+	{
+		"abr": "heavybridge",
+		"price": 36,
+		"category": "Uncategorized",
+		"defname": "RBB_Bridge_Stone"
+	},
+	{
 		"abr": "heavycombatrifle",
 		"price": 783,
 		"category": "Ranged weapons",
 		"defname": "Gun_HeavyCombatRifle"
 	},
 	{
+		"abr": "heavydeepwaterbridge",
+		"price": 75,
+		"category": "Uncategorized",
+		"defname": "RBB_DeepBridge_Stone"
+	},
+	{
 		"abr": "heavyfur",
 		"price": 6,
 		"category": "Leathers",
 		"defname": "Leather_Heavy"
+	},
+	{
+		"abr": "heavypowerconduit",
+		"price": 73,
+		"category": "Uncategorized",
+		"defname": "HeavyPowerConduit"
+	},
+	{
+		"abr": "hel",
+		"price": 1083,
+		"category": "Uncategorized",
+		"defname": "PPCHEL"
 	},
 	{
 		"abr": "hellsong",
@@ -4489,10 +4861,28 @@
 		"defname": "HempBattery"
 	},
 	{
+		"abr": "hempenepowerconduit",
+		"price": 209,
+		"category": "Uncategorized",
+		"defname": "HempPowerConduit"
+	},
+	{
+		"abr": "hempenesolargenerator",
+		"price": 5558,
+		"category": "Uncategorized",
+		"defname": "HempSolarGenerator"
+	},
+	{
 		"abr": "hempoline",
 		"price": 8,
 		"category": "Manufactured",
 		"defname": "Hempoline"
+	},
+	{
+		"abr": "hempolinegenerator",
+		"price": 650,
+		"category": "Uncategorized",
+		"defname": "HempolineGenerator"
 	},
 	{
 		"abr": "herbalmedicine",
@@ -4501,16 +4891,40 @@
 		"defname": "MedicineHerbal"
 	},
 	{
+		"abr": "highvoltage",
+		"price": 11,
+		"category": "Uncategorized",
+		"defname": "HighVoltage"
+	},
+	{
+		"abr": "highvoltagetransformer",
+		"price": 867,
+		"category": "Uncategorized",
+		"defname": "Transformer"
+	},
+	{
 		"abr": "high-explosiveshell",
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_HighExplosive"
 	},
 	{
+		"abr": "hi-techresearchbench",
+		"price": 1383,
+		"category": "Uncategorized",
+		"defname": "HiTechResearchBench"
+	},
+	{
 		"abr": "hivedata",
 		"price": 58,
 		"category": "Manufactured",
 		"defname": "WTH_MechanoidData"
+	},
+	{
+		"abr": "hiveshiphackingfacility",
+		"price": 4267,
+		"category": "Uncategorized",
+		"defname": "WTH_MechanoidBeacon"
 	},
 	{
 		"abr": "hobostew",
@@ -4535,6 +4949,12 @@
 		"price": 67,
 		"category": "Recreation",
 		"defname": "HoopstoneRing"
+	},
+	{
+		"abr": "hopper",
+		"price": 49,
+		"category": "Uncategorized",
+		"defname": "Hopper"
 	},
 	{
 		"abr": "hops",
@@ -4577,6 +4997,12 @@
 		"price": 167,
 		"category": "Raw resources",
 		"defname": "GR_HugeRhinoHorn"
+	},
+	{
+		"abr": "hullplating",
+		"price": 90,
+		"category": "Uncategorized",
+		"defname": "ShipHullTile"
 	},
 	{
 		"abr": "human",
@@ -4855,6 +5281,12 @@
 		"defname": "HydraulicJaw"
 	},
 	{
+		"abr": "hydroponicsbasin",
+		"price": 383,
+		"category": "Uncategorized",
+		"defname": "HydroponicsBasin"
+	},
+	{
 		"abr": "hyperweave",
 		"price": 15,
 		"category": "Textiles",
@@ -4909,6 +5341,12 @@
 		"defname": "TrapIED_Incendiary"
 	},
 	{
+		"abr": "iednitromilktrap",
+		"price": 71,
+		"category": "Uncategorized",
+		"defname": "GR_NitroMilkTrap"
+	},
+	{
 		"abr": "iedtrap",
 		"price": 192,
 		"category": "Security",
@@ -4955,6 +5393,12 @@
 		"price": 800,
 		"category": "Grenades",
 		"defname": "TE_Grief"
+	},
+	{
+		"abr": "impactioncharge",
+		"price": 9883,
+		"category": "Uncategorized",
+		"defname": "ImpactionCharge"
 	},
 	{
 		"abr": "improvisedrifle",
@@ -5071,6 +5515,12 @@
 		"defname": "CP_InstrumentTable"
 	},
 	{
+		"abr": "interiorshipcryptosleepcasket",
+		"price": 1725,
+		"category": "Uncategorized",
+		"defname": "ShipInside_CryptosleepCasket"
+	},
+	{
 		"abr": "intermediateirradiator",
 		"price": 2008,
 		"category": "Furniture",
@@ -5081,6 +5531,18 @@
 		"price": 542,
 		"category": "Furniture",
 		"defname": "RadiologyBlockerIntermediate"
+	},
+	{
+		"abr": "in-wallroller",
+		"price": 111,
+		"category": "Uncategorized",
+		"defname": "MovingRailWall"
+	},
+	{
+		"abr": "irradiationchamber",
+		"price": 178,
+		"category": "Uncategorized",
+		"defname": "RadiologyRadiationChamber"
 	},
 	{
 		"abr": "irradiator",
@@ -5287,6 +5749,18 @@
 		"defname": "GR_LabShelf"
 	},
 	{
+		"abr": "laboratorycounter",
+		"price": 12,
+		"category": "Uncategorized",
+		"defname": "CounterTopModular"
+	},
+	{
+		"abr": "laboratorystation",
+		"price": 1300,
+		"category": "Uncategorized",
+		"defname": "LabStation"
+	},
+	{
 		"abr": "labradorretriever",
 		"price": 417,
 		"category": "Uncategorized",
@@ -5303,6 +5777,18 @@
 		"price": 800,
 		"category": "Uncategorized",
 		"defname": "Mech_Lancer"
+	},
+	{
+		"abr": "landingpad",
+		"price": 483,
+		"category": "Uncategorized",
+		"defname": "LandingPad"
+	},
+	{
+		"abr": "landingpadbeacon",
+		"price": 49,
+		"category": "Uncategorized",
+		"defname": "LandingPadBeacon"
 	},
 	{
 		"abr": "largedoormat",
@@ -5365,6 +5851,12 @@
 		"defname": "SculptureLarge"
 	},
 	{
+		"abr": "largeshieldgenerator",
+		"price": 6350,
+		"category": "Uncategorized",
+		"defname": "Building_ShieldGeneratorLarge"
+	},
+	{
 		"abr": "largestatueofcolonist",
 		"price": 633,
 		"category": "Art",
@@ -5381,6 +5873,12 @@
 		"price": 583,
 		"category": "Items",
 		"defname": "LazarusMechInjectorSW"
+	},
+	{
+		"abr": "leftturnroller",
+		"price": 48,
+		"category": "Uncategorized",
+		"defname": "MovingRailLeft"
 	},
 	{
 		"abr": "leg",
@@ -5413,10 +5911,22 @@
 		"defname": "Gun_LeverActionSniper"
 	},
 	{
+		"abr": "liberator",
+		"price": 3942,
+		"category": "Uncategorized",
+		"defname": "MissileSilo"
+	},
+	{
 		"abr": "lifesupportsystem",
 		"price": 925,
 		"category": "Misc",
 		"defname": "QE_LifeSupportSystem"
+	},
+	{
+		"abr": "lifesupportvent",
+		"price": 90,
+		"category": "Uncategorized",
+		"defname": "ShipLifeSupportVent"
 	},
 	{
 		"abr": "lightcombatrifle",
@@ -5525,6 +6035,12 @@
 		"price": 29100,
 		"category": "Security",
 		"defname": "MissileTurret"
+	},
+	{
+		"abr": "long-rangemineralscanner",
+		"price": 1625,
+		"category": "Uncategorized",
+		"defname": "LongRangeMineralScanner"
 	},
 	{
 		"abr": "longsword",
@@ -5797,6 +6313,30 @@
 		"defname": "Building_RTMagneticShield"
 	},
 	{
+		"abr": "maicreator,female",
+		"price": 5,
+		"category": "Uncategorized",
+		"defname": "AIPawn_AIPawnCreator"
+	},
+	{
+		"abr": "maicreator,female(enhanced)",
+		"price": 5,
+		"category": "Uncategorized",
+		"defname": "AIPawn_AIPawnCreatorE"
+	},
+	{
+		"abr": "maicreator,male",
+		"price": 5,
+		"category": "Uncategorized",
+		"defname": "AIPawn_AIPawnCreatorMale"
+	},
+	{
+		"abr": "maicreator,male(enhanced)",
+		"price": 5,
+		"category": "Uncategorized",
+		"defname": "AIPawn_AIPawnCreatorMaleE"
+	},
+	{
 		"abr": "mailboxtradebeacon",
 		"price": 68,
 		"category": "Misc",
@@ -5899,6 +6439,18 @@
 		"defname": "ShredderTurretGunManned"
 	},
 	{
+		"abr": "mannedvulcancannon",
+		"price": 3683,
+		"category": "Uncategorized",
+		"defname": "VulcanCannonManned"
+	},
+	{
+		"abr": "marauder",
+		"price": 2783,
+		"category": "Uncategorized",
+		"defname": "PPCMarauder"
+	},
+	{
 		"abr": "marbleblocks",
 		"price": 2,
 		"category": "Stone blocks",
@@ -5923,6 +6475,24 @@
 		"defname": "TM_RawPomanaMash"
 	},
 	{
+		"abr": "massgrave",
+		"price": 8,
+		"category": "Uncategorized",
+		"defname": "MassGrave"
+	},
+	{
+		"abr": "massgrave",
+		"price": 8,
+		"category": "Uncategorized",
+		"defname": "MassGraveAlt"
+	},
+	{
+		"abr": "masterarchotechdatabase",
+		"price": 12275,
+		"category": "Uncategorized",
+		"defname": "GR_ArchotechDatabase"
+	},
+	{
 		"abr": "matchlockarquebus",
 		"price": 241,
 		"category": "Ranged weapons",
@@ -5933,6 +6503,12 @@
 		"price": 208,
 		"category": "Ranged weapons",
 		"defname": "Gun_MatchlockPistol"
+	},
+	{
+		"abr": "matterfabricator",
+		"price": 55275,
+		"category": "Uncategorized",
+		"defname": "Matterfab"
 	},
 	{
 		"abr": "matterweaver",
@@ -6121,6 +6697,18 @@
 		"defname": "GR_ElectroEgg"
 	},
 	{
+		"abr": "mechanoidhackingfacility",
+		"price": 1200,
+		"category": "Uncategorized",
+		"defname": "WTH_HackingTable"
+	},
+	{
+		"abr": "mechanoidhiveshipcore",
+		"price": 8733,
+		"category": "Uncategorized",
+		"defname": "MechanoidHiveComputerCoreSW"
+	},
+	{
 		"abr": "mechanoidinterfacechip",
 		"price": 167,
 		"category": "Items",
@@ -6131,6 +6719,24 @@
 		"price": 25,
 		"category": "Animal products",
 		"defname": "GR_MechaMilk"
+	},
+	{
+		"abr": "mechanoidparts",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "WTH_MechanoidParts"
+	},
+	{
+		"abr": "mechanoidplatform",
+		"price": 742,
+		"category": "Uncategorized",
+		"defname": "WTH_MechanoidPlatform"
+	},
+	{
+		"abr": "mechanoidtinkeringtable",
+		"price": 1542,
+		"category": "Uncategorized",
+		"defname": "GR_MechanoidTinkeringTable"
 	},
 	{
 		"abr": "mechanoidwool",
@@ -6227,6 +6833,12 @@
 		"price": 1250,
 		"category": "Bionics",
 		"defname": "MedicalRib"
+	},
+	{
+		"abr": "medicalspaceship",
+		"price": 35242,
+		"category": "Uncategorized",
+		"defname": "SpaceshipMedical"
 	},
 	{
 		"abr": "medicalstretcher",
@@ -6355,6 +6967,12 @@
 		"defname": "YP_BaegYa"
 	},
 	{
+		"abr": "militarychemfuelgenerator",
+		"price": 608,
+		"category": "Uncategorized",
+		"defname": "TacticalDieselGenerator"
+	},
+	{
 		"abr": "militarycotbed",
 		"price": 155,
 		"category": "Furniture",
@@ -6389,6 +7007,18 @@
 		"price": 5,
 		"category": "Animal products",
 		"defname": "Milk"
+	},
+	{
+		"abr": "miller'smaxibunmachine",
+		"price": 658,
+		"category": "Uncategorized",
+		"defname": "RNVendingMachine_MaxiBuns"
+	},
+	{
+		"abr": "mindalteringdevice",
+		"price": 1817,
+		"category": "Uncategorized",
+		"defname": "MindAlteringDeviceSW"
 	},
 	{
 		"abr": "minifloodlight",
@@ -6569,6 +7199,12 @@
 		"price": 608,
 		"category": "GD weapons",
 		"defname": "GD_MSST"
+	},
+	{
+		"abr": "moisturepump",
+		"price": 458,
+		"category": "Uncategorized",
+		"defname": "MoisturePump"
 	},
 	{
 		"abr": "molebear",
@@ -7117,6 +7753,12 @@
 		"defname": "FissionWarhead"
 	},
 	{
+		"abr": "nukacolamachine",
+		"price": 658,
+		"category": "Uncategorized",
+		"defname": "RNVendingMachine_NukaCola"
+	},
+	{
 		"abr": "nuka-cola",
 		"price": 88,
 		"category": "Drugs",
@@ -7127,6 +7769,12 @@
 		"price": 133,
 		"category": "Drugs",
 		"defname": "CP_NukaColaQuantum"
+	},
+	{
+		"abr": "nutrientpastedispenser",
+		"price": 458,
+		"category": "Uncategorized",
+		"defname": "NutrientPasteDispenser"
 	},
 	{
 		"abr": "nutrientpastemeal",
@@ -7151,6 +7799,12 @@
 		"price": 25,
 		"category": "Smokeleaf Edibles",
 		"defname": "SmokeleafNutriLeaf"
+	},
+	{
+		"abr": "obelisk",
+		"price": 2217,
+		"category": "Uncategorized",
+		"defname": "PPCObelisk"
 	},
 	{
 		"abr": "ocdefensepistol",
@@ -7261,6 +7915,12 @@
 		"defname": "OrbitalTargeterPowerBeam"
 	},
 	{
+		"abr": "orbitalrelay",
+		"price": 1825,
+		"category": "Uncategorized",
+		"defname": "OrbitalRelay"
+	},
+	{
 		"abr": "orbitaltradebeacon",
 		"price": 185,
 		"category": "Misc",
@@ -7363,6 +8023,24 @@
 		"defname": "WTH_OverdriveModule"
 	},
 	{
+		"abr": "over-wallcooler",
+		"price": 458,
+		"category": "Uncategorized",
+		"defname": "Cooler_Over"
+	},
+	{
+		"abr": "over-wallcooler(wide)",
+		"price": 458,
+		"category": "Uncategorized",
+		"defname": "Cooler_Over2W"
+	},
+	{
+		"abr": "over-wallvent",
+		"price": 97,
+		"category": "Uncategorized",
+		"defname": "Vent_Over"
+	},
+	{
 		"abr": "owlbearfeathers",
 		"price": 5,
 		"category": "Raw resources",
@@ -7403,6 +8081,12 @@
 		"price": 3167,
 		"category": "Scrolls",
 		"defname": "SpellOf_HolyWrath"
+	},
+	{
+		"abr": "panelwall",
+		"price": 17,
+		"category": "Uncategorized",
+		"defname": "CCrystalWall"
 	},
 	{
 		"abr": "panther",
@@ -7693,6 +8377,12 @@
 		"defname": "RNApparel_Parka_ATACSFG"
 	},
 	{
+		"abr": "passivecooler",
+		"price": 101,
+		"category": "Uncategorized",
+		"defname": "PassiveCooler"
+	},
+	{
 		"abr": "patchleather",
 		"price": 2,
 		"category": "Leathers",
@@ -7715,6 +8405,12 @@
 		"price": 483,
 		"category": "Misc",
 		"defname": "CP_PCCommsStation"
+	},
+	{
+		"abr": "pcresearchdesk",
+		"price": 600,
+		"category": "Uncategorized",
+		"defname": "CP_ResearchStation"
 	},
 	{
 		"abr": "pegleg",
@@ -7745,6 +8441,12 @@
 		"price": 600,
 		"category": "Ranged weapons",
 		"defname": "Gun_PersonalisedBullpupPDW"
+	},
+	{
+		"abr": "pharmaceuticaltable",
+		"price": 9917,
+		"category": "Uncategorized",
+		"defname": "PharmaTable"
 	},
 	{
 		"abr": "pig",
@@ -7813,6 +8515,24 @@
 		"defname": "MSI_WoodenPlanter"
 	},
 	{
+		"abr": "plasmafence",
+		"price": 273,
+		"category": "Uncategorized",
+		"defname": "Plasma_fence"
+	},
+	{
+		"abr": "plasmafencegate",
+		"price": 575,
+		"category": "Uncategorized",
+		"defname": "Plasma_fence_door"
+	},
+	{
+		"abr": "plasmafusionreactor",
+		"price": 130050,
+		"category": "Uncategorized",
+		"defname": "PlasmaReactor"
+	},
+	{
 		"abr": "plasmagun",
 		"price": 2308,
 		"category": "Ranged weapons",
@@ -7841,6 +8561,18 @@
 		"price": 100,
 		"category": "Rimatomics Product",
 		"defname": "Plutonium"
+	},
+	{
+		"abr": "plutoniumprocessor",
+		"price": 2642,
+		"category": "Uncategorized",
+		"defname": "PlutoniumProcessor"
+	},
+	{
+		"abr": "podlauncher",
+		"price": 230,
+		"category": "Uncategorized",
+		"defname": "PodLauncher"
 	},
 	{
 		"abr": "poisonampoule",
@@ -8011,6 +8743,18 @@
 		"defname": "PowerClaw"
 	},
 	{
+		"abr": "powerconduit",
+		"price": 3,
+		"category": "Uncategorized",
+		"defname": "PowerConduit"
+	},
+	{
+		"abr": "powerswitch",
+		"price": 102,
+		"category": "Uncategorized",
+		"defname": "PowerSwitch"
+	},
+	{
 		"abr": "poweredassaultarmor",
 		"price": 4333,
 		"category": "Apparel",
@@ -8023,10 +8767,22 @@
 		"defname": "SF_PoweredAssaultArmorHelmet"
 	},
 	{
+		"abr": "ppc",
+		"price": 1767,
+		"category": "Uncategorized",
+		"defname": "PPC"
+	},
+	{
 		"abr": "precisionturret",
 		"price": 1600,
 		"category": "Security",
 		"defname": "PrecisionTurretGun"
+	},
+	{
+		"abr": "preserverstation",
+		"price": 4900,
+		"category": "Uncategorized",
+		"defname": "ConstructHubGuardian"
 	},
 	{
 		"abr": "priestspell:resurrection",
@@ -8063,6 +8819,24 @@
 		"price": 1158,
 		"category": "Ranged weapons",
 		"defname": "Gun_CrystalCraftedPsionicRifle"
+	},
+	{
+		"abr": "psionicfieldscanner",
+		"price": 800,
+		"category": "Uncategorized",
+		"defname": "PsionicFieldScanner"
+	},
+	{
+		"abr": "psionicgenerator",
+		"price": 508,
+		"category": "Uncategorized",
+		"defname": "PsionicGenerator"
+	},
+	{
+		"abr": "psionicreciever",
+		"price": 2242,
+		"category": "Uncategorized",
+		"defname": "PsionicReciever"
 	},
 	{
 		"abr": "psionwire",
@@ -8113,6 +8887,12 @@
 		"defname": "PsychicSoothePulser"
 	},
 	{
+		"abr": "psychicwaveemitter",
+		"price": 8225,
+		"category": "Uncategorized",
+		"defname": "PsychicWaveEmitterSW"
+	},
+	{
 		"abr": "psychitetea",
 		"price": 17,
 		"category": "Drugs",
@@ -8147,6 +8927,12 @@
 		"price": 550,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun"
+	},
+	{
+		"abr": "punisher",
+		"price": 1725,
+		"category": "Uncategorized",
+		"defname": "PPCRailgun"
 	},
 	{
 		"abr": "pusher",
@@ -8197,6 +8983,12 @@
 		"defname": "RadiologyBlocker"
 	},
 	{
+		"abr": "radiationdetector",
+		"price": 191,
+		"category": "Uncategorized",
+		"defname": "RadiationDetector"
+	},
+	{
 		"abr": "radiationfilter",
 		"price": 284,
 		"category": "Furniture",
@@ -8219,6 +9011,12 @@
 		"price": 383,
 		"category": "Hazmat",
 		"defname": "Apparel_RadiationSuit"
+	},
+	{
+		"abr": "radiator",
+		"price": 1317,
+		"category": "Uncategorized",
+		"defname": "CoolingRadiator"
 	},
 	{
 		"abr": "radio(fallout)",
@@ -8299,6 +9097,36 @@
 		"defname": "Apparel_Reactive"
 	},
 	{
+		"abr": "reactorconsole",
+		"price": 758,
+		"category": "Uncategorized",
+		"defname": "ReactorControl"
+	},
+	{
+		"abr": "reactortypea",
+		"price": 1808,
+		"category": "Uncategorized",
+		"defname": "ReactorCoreA"
+	},
+	{
+		"abr": "reactortypev",
+		"price": 7625,
+		"category": "Uncategorized",
+		"defname": "ReactorCoreC"
+	},
+	{
+		"abr": "reactortypex",
+		"price": 3925,
+		"category": "Uncategorized",
+		"defname": "ReactorCoreB"
+	},
+	{
+		"abr": "re-ambulationpod",
+		"price": 12458,
+		"category": "Uncategorized",
+		"defname": "ambTable"
+	},
+	{
 		"abr": "receptorantagonist",
 		"price": 180,
 		"category": "Drugs",
@@ -8375,6 +9203,18 @@
 		"price": 1117,
 		"category": "Headgear",
 		"defname": "Apparel_NemesisH"
+	},
+	{
+		"abr": "refrigeratedcoils",
+		"price": 1775,
+		"category": "Uncategorized",
+		"defname": "GR_RefrigeratedCoils"
+	},
+	{
+		"abr": "reinforcedduwall",
+		"price": 157,
+		"category": "Uncategorized",
+		"defname": "RadiationShielding"
 	},
 	{
 		"abr": "remotedoor(1x1)",
@@ -8455,6 +9295,18 @@
 		"defname": "GR_ReptilianGenetic"
 	},
 	{
+		"abr": "researchreactor",
+		"price": 2175,
+		"category": "Uncategorized",
+		"defname": "ResearchReactor"
+	},
+	{
+		"abr": "researchterminal",
+		"price": 758,
+		"category": "Uncategorized",
+		"defname": "LabTerminal"
+	},
+	{
 		"abr": "resurrectormechserum",
 		"price": 2833,
 		"category": "Items",
@@ -8503,6 +9355,24 @@
 		"defname": "RawRice"
 	},
 	{
+		"abr": "rightturnroller",
+		"price": 48,
+		"category": "Uncategorized",
+		"defname": "MovingRailRight"
+	},
+	{
+		"abr": "rimatomicsmachiningtable",
+		"price": 800,
+		"category": "Uncategorized",
+		"defname": "TableRimatomicsMachining"
+	},
+	{
+		"abr": "rimatomicsresearchbench",
+		"price": 1375,
+		"category": "Uncategorized",
+		"defname": "NuclearResearchBench"
+	},
+	{
 		"abr": "ringofblood",
 		"price": 3167,
 		"category": "Apparel",
@@ -8543,6 +9413,12 @@
 		"price": 10417,
 		"category": "Apparel",
 		"defname": "ArchMageRobe"
+	},
+	{
+		"abr": "roboticassembler",
+		"price": 15575,
+		"category": "Uncategorized",
+		"defname": "RobAssem"
 	},
 	{
 		"abr": "roboticcomponent",
@@ -8605,6 +9481,18 @@
 		"defname": "GR_RodentGenetic"
 	},
 	{
+		"abr": "rogueai",
+		"price": 4600,
+		"category": "Uncategorized",
+		"defname": "WTH_RogueAI"
+	},
+	{
+		"abr": "roofsupport",
+		"price": 21,
+		"category": "Uncategorized",
+		"defname": "RoofSupport"
+	},
+	{
 		"abr": "royalbed",
 		"price": 1467,
 		"category": "Furniture",
@@ -8653,6 +9541,12 @@
 		"defname": "RailgunSabot"
 	},
 	{
+		"abr": "sacs",
+		"price": 1167,
+		"category": "Uncategorized",
+		"defname": "PPCWeaponsConsole"
+	},
+	{
 		"abr": "samuraipowerarmor",
 		"price": 4333,
 		"category": "Apparel",
@@ -8665,10 +9559,40 @@
 		"defname": "SF_SamuraiPowerArmorHelmet"
 	},
 	{
+		"abr": "sandbags",
+		"price": 17,
+		"category": "Uncategorized",
+		"defname": "Sandbags"
+	},
+	{
 		"abr": "sandstoneblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksSandstone"
+	},
+	{
+		"abr": "sarcophagus",
+		"price": 214,
+		"category": "Uncategorized",
+		"defname": "Sarcophagus"
+	},
+	{
+		"abr": "sarcophagustypea",
+		"price": 1167,
+		"category": "Uncategorized",
+		"defname": "ReactorSacrophagus"
+	},
+	{
+		"abr": "sarcophagustypev",
+		"price": 1167,
+		"category": "Uncategorized",
+		"defname": "ReactorSacrophagusC"
+	},
+	{
+		"abr": "sarcophagustypex",
+		"price": 1167,
+		"category": "Uncategorized",
+		"defname": "ReactorSacrophagusB"
 	},
 	{
 		"abr": "satchelcharge",
@@ -8755,6 +9679,12 @@
 		"defname": "Gun_SemiAutomaticShotgun"
 	},
 	{
+		"abr": "sensorcluster",
+		"price": 3008,
+		"category": "Uncategorized",
+		"defname": "Ship_SensorCluster"
+	},
+	{
 		"abr": "sensorymechinjector",
 		"price": 267,
 		"category": "Items",
@@ -8809,10 +9739,82 @@
 		"defname": "Shelf"
 	},
 	{
+		"abr": "shield",
+		"price": 22,
+		"category": "Uncategorized",
+		"defname": "Shield"
+	},
+	{
 		"abr": "shieldbelt",
 		"price": 650,
 		"category": "Apparel",
 		"defname": "Apparel_ShieldBelt"
+	},
+	{
+		"abr": "shieldgenerator",
+		"price": 3175,
+		"category": "Uncategorized",
+		"defname": "Building_ShieldGenerator"
+	},
+	{
+		"abr": "shipairlock",
+		"price": 842,
+		"category": "Uncategorized",
+		"defname": "ShipAirlock"
+	},
+	{
+		"abr": "shipchunk",
+		"price": 783,
+		"category": "Uncategorized",
+		"defname": "ShipChunk"
+	},
+	{
+		"abr": "shipcomputercore",
+		"price": 9742,
+		"category": "Uncategorized",
+		"defname": "Ship_ComputerCore"
+	},
+	{
+		"abr": "shipcryptosleepcasket",
+		"price": 1725,
+		"category": "Uncategorized",
+		"defname": "Ship_CryptosleepCasket"
+	},
+	{
+		"abr": "shipengine",
+		"price": 5925,
+		"category": "Uncategorized",
+		"defname": "Ship_Engine"
+	},
+	{
+		"abr": "shipradiator",
+		"price": 3050,
+		"category": "Uncategorized",
+		"defname": "ShipInside_PassiveCooler"
+	},
+	{
+		"abr": "shipreactor",
+		"price": 9067,
+		"category": "Uncategorized",
+		"defname": "Ship_Reactor"
+	},
+	{
+		"abr": "shipstructuralbeam",
+		"price": 1775,
+		"category": "Uncategorized",
+		"defname": "Ship_Beam"
+	},
+	{
+		"abr": "shipstructuralmodule",
+		"price": 658,
+		"category": "Uncategorized",
+		"defname": "Ship_Beam_Modular"
+	},
+	{
+		"abr": "shockfloorpanel",
+		"price": 221,
+		"category": "Uncategorized",
+		"defname": "electricPanel"
 	},
 	{
 		"abr": "shocktrooperarmor",
@@ -9061,6 +10063,36 @@
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
+		"abr": "smoothedgranite",
+		"price": 33,
+		"category": "Uncategorized",
+		"defname": "SmoothedGranite"
+	},
+	{
+		"abr": "smoothedlimestone",
+		"price": 33,
+		"category": "Uncategorized",
+		"defname": "SmoothedLimestone"
+	},
+	{
+		"abr": "smoothedmarble",
+		"price": 42,
+		"category": "Uncategorized",
+		"defname": "SmoothedMarble"
+	},
+	{
+		"abr": "smoothedsandstone",
+		"price": 30,
+		"category": "Uncategorized",
+		"defname": "SmoothedSandstone"
+	},
+	{
+		"abr": "smoothedslate",
+		"price": 33,
+		"category": "Uncategorized",
+		"defname": "SmoothedSlate"
+	},
+	{
 		"abr": "snakecat",
 		"price": 667,
 		"category": "Uncategorized",
@@ -9079,10 +10111,40 @@
 		"defname": "Snowhare"
 	},
 	{
+		"abr": "solarcontroller",
+		"price": 417,
+		"category": "Uncategorized",
+		"defname": "SolarController"
+	},
+	{
+		"abr": "solargenerator",
+		"price": 492,
+		"category": "Uncategorized",
+		"defname": "SolarGenerator"
+	},
+	{
+		"abr": "solargenerator",
+		"price": 3050,
+		"category": "Uncategorized",
+		"defname": "ShipInside_SolarGenerator"
+	},
+	{
+		"abr": "solarroofing",
+		"price": 14,
+		"category": "Uncategorized",
+		"defname": "RoofSolarFraming"
+	},
+	{
 		"abr": "spacebucket",
 		"price": 303,
 		"category": "Furniture",
 		"defname": "SpaceBucket"
+	},
+	{
+		"abr": "spaceship",
+		"price": 35258,
+		"category": "Uncategorized",
+		"defname": "Spaceship"
 	},
 	{
 		"abr": "spear",
@@ -9179,6 +10241,12 @@
 		"price": 1667,
 		"category": "Mechnoid Weapons",
 		"defname": "Vanya_SplitRifle"
+	},
+	{
+		"abr": "splitterroller",
+		"price": 112,
+		"category": "Uncategorized",
+		"defname": "MovingRailSplitter"
 	},
 	{
 		"abr": "sportingrifle",
@@ -9289,6 +10357,18 @@
 		"defname": "TMB_StatueOfColonistK"
 	},
 	{
+		"abr": "steampipe",
+		"price": 11,
+		"category": "Uncategorized",
+		"defname": "steamPipe"
+	},
+	{
+		"abr": "steamvalve",
+		"price": 50,
+		"category": "Uncategorized",
+		"defname": "steamValve"
+	},
+	{
 		"abr": "steel",
 		"price": 3,
 		"category": "Raw resources",
@@ -9343,6 +10423,18 @@
 		"defname": "Stool"
 	},
 	{
+		"abr": "storagepool",
+		"price": 1850,
+		"category": "Uncategorized",
+		"defname": "storagePool"
+	},
+	{
+		"abr": "straightroller",
+		"price": 48,
+		"category": "Uncategorized",
+		"defname": "MovingRailStraight"
+	},
+	{
 		"abr": "submachinegun",
 		"price": 442,
 		"category": "Ranged weapons",
@@ -9371,6 +10463,12 @@
 		"price": 120,
 		"category": "Headgear",
 		"defname": "Apparel_FSSurgicalMask"
+	},
+	{
+		"abr": "surplusmachine",
+		"price": 750,
+		"category": "Uncategorized",
+		"defname": "RNVendingMachine_Surplus"
 	},
 	{
 		"abr": "surrogateheart",
@@ -9407,6 +10505,12 @@
 		"price": 342,
 		"category": "Melee weapons",
 		"defname": "TE_Eris"
+	},
+	{
+		"abr": "survivalmachine",
+		"price": 492,
+		"category": "Uncategorized",
+		"defname": "RNVendingMachine_Survival"
 	},
 	{
 		"abr": "syntheticheart",
@@ -9481,6 +10585,12 @@
 		"defname": "Table3x3c"
 	},
 	{
+		"abr": "tacs",
+		"price": 1258,
+		"category": "Uncategorized",
+		"defname": "RadarDish"
+	},
+	{
 		"abr": "tacticalcorneaimplant",
 		"price": 5833,
 		"category": "Synthetic organs",
@@ -9491,6 +10601,12 @@
 		"price": 433,
 		"category": "Ranged weapons",
 		"defname": "GD_TacticalPistol"
+	},
+	{
+		"abr": "tacticoolrefrigerator",
+		"price": 483,
+		"category": "Uncategorized",
+		"defname": "RedHorse_TacticoolRefrigerator"
 	},
 	{
 		"abr": "tankmeat",
@@ -9583,6 +10699,12 @@
 		"defname": "Telescope"
 	},
 	{
+		"abr": "teslacoil",
+		"price": 792,
+		"category": "Uncategorized",
+		"defname": "PPCTeslaCoil"
+	},
+	{
 		"abr": "thermalpants",
 		"price": 277,
 		"category": "Apparel",
@@ -9595,10 +10717,22 @@
 		"defname": "PolarisThermostat"
 	},
 	{
+		"abr": "thickstoneroofing",
+		"price": 36,
+		"category": "Uncategorized",
+		"defname": "ThickStoneRoofFraming"
+	},
+	{
 		"abr": "thinkingprocessor",
 		"price": 5000,
 		"category": "Artificial",
 		"defname": "Vanya_ConsciousnessCube"
+	},
+	{
+		"abr": "thorturbine",
+		"price": 2017,
+		"category": "Uncategorized",
+		"defname": "Turbine"
 	},
 	{
 		"abr": "thrumbow",
@@ -9817,6 +10951,12 @@
 		"defname": "ToolCabinet"
 	},
 	{
+		"abr": "torchlamp",
+		"price": 41,
+		"category": "Uncategorized",
+		"defname": "TorchLamp"
+	},
+	{
 		"abr": "torchsword",
 		"price": 1242,
 		"category": "Melee weapons",
@@ -9955,6 +11095,18 @@
 		"defname": "PolarisMechSerumTraitreleaser"
 	},
 	{
+		"abr": "transparentroofing",
+		"price": 4,
+		"category": "Uncategorized",
+		"defname": "RoofTransparentFraming"
+	},
+	{
+		"abr": "transportpod",
+		"price": 253,
+		"category": "Uncategorized",
+		"defname": "TransportPod"
+	},
+	{
 		"abr": "tribalheaddress",
 		"price": 203,
 		"category": "Headgear",
@@ -10009,6 +11161,12 @@
 		"defname": "turbineBlade"
 	},
 	{
+		"abr": "turbochargedcryo-stabilizedengine",
+		"price": 7342,
+		"category": "Uncategorized",
+		"defname": "GR_TurboChargedCryostabilizedEngine"
+	},
+	{
 		"abr": "turkey",
 		"price": 167,
 		"category": "Uncategorized",
@@ -10057,6 +11215,18 @@
 		"defname": "Meat_TM_Undead"
 	},
 	{
+		"abr": "undergroundrollerinput",
+		"price": 319,
+		"category": "Uncategorized",
+		"defname": "MovingRailUndergroundInput"
+	},
+	{
+		"abr": "undergroundrolleroutput",
+		"price": 319,
+		"category": "Uncategorized",
+		"defname": "MovingRailUndergroundOutput"
+	},
+	{
 		"abr": "unfinishedarcanebook",
 		"price": 4392,
 		"category": "Skill books",
@@ -10093,6 +11263,12 @@
 		"defname": "UraniumPellets"
 	},
 	{
+		"abr": "uraniumslugturret",
+		"price": 2408,
+		"category": "Uncategorized",
+		"defname": "Turret_Sniper"
+	},
+	{
 		"abr": "urbanpistol",
 		"price": 392,
 		"category": "Ranged weapons",
@@ -10117,10 +11293,22 @@
 		"defname": "WTH_VanometricModule"
 	},
 	{
+		"abr": "vendingmachine",
+		"price": 492,
+		"category": "Uncategorized",
+		"defname": "RNVendingMachine"
+	},
+	{
 		"abr": "venison",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Deer"
+	},
+	{
+		"abr": "vent",
+		"price": 97,
+		"category": "Uncategorized",
+		"defname": "Vent"
 	},
 	{
 		"abr": "verysmallteeth",
@@ -10219,16 +11407,82 @@
 		"defname": "RNVRTraining_Portal"
 	},
 	{
+		"abr": "vulcancannon",
+		"price": 4433,
+		"category": "Uncategorized",
+		"defname": "VulcanCannon"
+	},
+	{
+		"abr": "vulcanturret",
+		"price": 1258,
+		"category": "Uncategorized",
+		"defname": "VulcanTurret"
+	},
+	{
 		"abr": "wake-up",
 		"price": 58,
 		"category": "Drugs",
 		"defname": "WakeUp"
 	},
 	{
+		"abr": "wall",
+		"price": 17,
+		"category": "Uncategorized",
+		"defname": "Wall"
+	},
+	{
+		"abr": "wallbluelight",
+		"price": 550,
+		"category": "Uncategorized",
+		"defname": "WallLight_Blue"
+	},
+	{
+		"abr": "wallcyanlight",
+		"price": 550,
+		"category": "Uncategorized",
+		"defname": "WallLight_Cyan"
+	},
+	{
+		"abr": "wallgreenlight",
+		"price": 550,
+		"category": "Uncategorized",
+		"defname": "WallLight_Green"
+	},
+	{
+		"abr": "walllight",
+		"price": 550,
+		"category": "Uncategorized",
+		"defname": "WallLight_White"
+	},
+	{
 		"abr": "wallofshame",
 		"price": 2167,
 		"category": "Special",
 		"defname": "CP_WallOfShame"
+	},
+	{
+		"abr": "wallpurplelight",
+		"price": 550,
+		"category": "Uncategorized",
+		"defname": "WallLight_Purple"
+	},
+	{
+		"abr": "wallredlight",
+		"price": 550,
+		"category": "Uncategorized",
+		"defname": "WallLight_Red"
+	},
+	{
+		"abr": "wallwindow",
+		"price": 550,
+		"category": "Uncategorized",
+		"defname": "WallWindow"
+	},
+	{
+		"abr": "wallyellowlight",
+		"price": 550,
+		"category": "Uncategorized",
+		"defname": "WallLight_Yellow"
 	},
 	{
 		"abr": "wandoffire",
@@ -10285,6 +11539,30 @@
 		"defname": "SpellOf_PsychicShock"
 	},
 	{
+		"abr": "watercooling",
+		"price": 2025,
+		"category": "Uncategorized",
+		"defname": "CoolingWater"
+	},
+	{
+		"abr": "watermillgenerator",
+		"price": 1000,
+		"category": "Uncategorized",
+		"defname": "WatermillGenerator"
+	},
+	{
+		"abr": "waterproofconduit",
+		"price": 10,
+		"category": "Uncategorized",
+		"defname": "WaterproofConduit"
+	},
+	{
+		"abr": "weaponsresearchbench",
+		"price": 1217,
+		"category": "Uncategorized",
+		"defname": "WeaponsBench"
+	},
+	{
 		"abr": "wedgeshield",
 		"price": 925,
 		"category": "Shield",
@@ -10325,6 +11603,12 @@
 		"price": 333,
 		"category": "Uncategorized",
 		"defname": "WildBoar"
+	},
+	{
+		"abr": "windturbine",
+		"price": 442,
+		"category": "Uncategorized",
+		"defname": "WindTurbine"
 	},
 	{
 		"abr": "wolf/bearincubator",
@@ -10525,6 +11809,12 @@
 		"defname": "WoodenFoot"
 	},
 	{
+		"abr": "wood-firedgenerator",
+		"price": 442,
+		"category": "Uncategorized",
+		"defname": "WoodFiredGenerator"
+	},
+	{
 		"abr": "wort",
 		"price": 4,
 		"category": "Manufactured",
@@ -10535,6 +11825,12 @@
 		"price": 3333,
 		"category": "Apparel",
 		"defname": "Apparel_CyberSuit"
+	},
+	{
+		"abr": "xenon-ionturbine",
+		"price": 22900,
+		"category": "Uncategorized",
+		"defname": "XenonIonTurbine"
 	},
 	{
 		"abr": "yayo",
@@ -10597,11 +11893,11 @@
 		"defname": "YP_VectorShot"
 	},
 	{
-		"abr": "mechanoidparts",
-		"price": 17,
-		"category": "Manufactured",
-		"defname": "WTH_MechanoidParts"
+		"abr": "zeusturbine",
+		"price": 6075,
+		"category": "Uncategorized",
+		"defname": "BigTurbine"
 	}
 	],
-	"total": 1769
+	"total": 1983
 }
